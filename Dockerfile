@@ -1,6 +1,6 @@
 FROM tutum/apache-php
 
-MAINTAINER Ben Maggacis, ben.maggacis@qut.edu.au
+MAINTAINER Ben M, git@bmagg.com
 
 # Install some dependencies
 # NOTE: To make nano work when you run: `docker exec -it <container-id> bash`
